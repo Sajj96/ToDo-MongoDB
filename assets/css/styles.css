@@ -1,0 +1,15 @@
+.main-container {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #000000;
+  text-decoration: none;
+}
